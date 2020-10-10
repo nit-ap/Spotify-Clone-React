@@ -6,7 +6,7 @@
 * Compatible in almost all browsers.
 ## Quick Links 
 * Official **ReactJS Documentation** :- *[Link](https://reactjs.org/docs/getting-started.html)*
-* Full **ReactJS tutorial** :- *[Link](hhttps://www.youtube.com/watch?v=4UZrsTqkcW4&feature=youtu.be)*
+* Full **ReactJS tutorial** :- *[Link](https://www.youtube.com/watch?v=4UZrsTqkcW4&feature=youtu.be)*
 * Tutorial about the **Spotify Web Clone and other interesting clones(Facebook, WhatsApp)** :- *[Clever Programmer](https://www.youtube.com/c/CleverProgrammer)*
 
 ## A Brief Note 
